@@ -1,0 +1,17 @@
+{
+  "name": "Expo Fixture",
+  "slug": "expo-fixture",
+  "version": "2.0.0",
+  "sdkVersion": "52.0.0",
+  "ios": {
+    "bundleIdentifier": "com.example.expofixture",
+    "buildNumber": "12",
+    "supportsTablet": false,
+    "infoPlist": {
+      "CFBundleDisplayName": "Expo Fixture",
+      "NSCameraUsageDescription": "Allow $(PRODUCT_NAME) to access your camera",
+      "NSAppTransportSecurity": { "NSAllowsArbitraryLoads": true, "NSExceptionDomains": { "localhost": { "NSExceptionAllowsInsecureHTTPLoads": true } } }
+    },
+    "entitlements": { "aps-environment": "development" }
+  }
+}

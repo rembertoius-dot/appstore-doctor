@@ -1,0 +1,1507 @@
+[
+ {
+  "id": "1.1",
+  "title": "Objectionable Content",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Apps should not include content that is offensive, insensitive, upsetting, intended to disgust, in exceptionally poor taste, or just plain creepy. Examples of such content",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "1.1.1",
+  "title": "Defamatory, discriminatory, or mean-spirited content, including references or…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Defamatory, discriminatory, or mean-spirited content, including references or commentary about religion, race, sexual orientation, gender, national/ethnic origin, or other targeted groups, particularly if the app",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "1.1.2",
+  "title": "Realistic portrayals of people or animals being killed, maimed, tortured, or…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Realistic portrayals of people or animals being killed, maimed, tortured, or abused, or content that encourages violence. “Enemies” within the context of a game cannot",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "1.1.3",
+  "title": "Depictions that encourage illegal or reckless use of weapons and dangerous…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Depictions that encourage illegal or reckless use of weapons and dangerous objects, or facilitate the purchase of firearms or ammunition.",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "1.1.4",
+  "title": "Overtly sexual or pornographic material, defined as “explicit descriptions or…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Overtly sexual or pornographic material, defined as “explicit descriptions or displays of sexual organs or activities intended to stimulate erotic rather than aesthetic or emotional",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "1.1.5",
+  "title": "Inflammatory religious commentary or inaccurate or misleading quotations of…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Inflammatory religious commentary or inaccurate or misleading quotations of religious texts.",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "1.1.6",
+  "title": "False information and features, including inaccurate device data or trick/joke…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "False information and features, including inaccurate device data or trick/joke functionality, such as fake location trackers. Stating that the app is “for entertainment purposes” won’t",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "1.1.7",
+  "title": "Harmful concepts which capitalize or seek to profit on recent or current…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Harmful concepts which capitalize or seek to profit on recent or current events, such as violent conflicts, terrorist attacks, and epidemics.",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "1.2",
+  "title": "User-Generated Content",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Apps with user-generated content present particular challenges, ranging from intellectual property infringement to anonymous bullying. To prevent abuse, apps with user-generated content or social networking",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "1.2.1",
+  "title": "Creator Content",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Apps which feature content from a specific community of users called “creators” are a great opportunity if properly moderated. These apps present a singular, unified",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "1.2.1(a)",
+  "title": "Creator apps must provide a way for users to identify content that exceeds the…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Creator apps must provide a way for users to identify content that exceeds the app’s age rating, and use an age restriction mechanism based on",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "1.3",
+  "title": "Kids Category",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "The Kids Category is a great way for people to easily find apps that are designed for children. If you want to participate in the",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "1.4",
+  "title": "Physical Harm",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "If your app behaves in a way that risks physical harm, we may reject it. For example:",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "1.4.1",
+  "title": "Medical apps that could provide inaccurate data or information, or that could…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Medical apps that could provide inaccurate data or information, or that could be used for diagnosing or treating patients may be reviewed with greater scrutiny.",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "1.4.2",
+  "title": "Drug dosage calculators must come from the drug manufacturer, a hospital…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Drug dosage calculators must come from the drug manufacturer, a hospital, university, health insurance company, pharmacy or other approved entity, or receive approval by the",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "1.4.3",
+  "title": "Apps that encourage consumption of tobacco and vape products, illegal drugs…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Apps that encourage consumption of tobacco and vape products, illegal drugs, or excessive amounts of alcohol are not permitted. Apps that encourage minors to consume",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "1.4.4",
+  "title": "Apps may only display DUI checkpoints that are published by law enforcement…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Apps may only display DUI checkpoints that are published by law enforcement agencies, and should never encourage drunk driving or other reckless behavior such as",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "1.4.5",
+  "title": "Apps should not urge customers to participate in activities (like bets…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Apps should not urge customers to participate in activities (like bets, challenges, etc.) or use their devices in a way that risks physical harm to",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "1.5",
+  "title": "Developer Information",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "People need to know how to reach you with questions and support issues. Make sure your app and its Support URL include an easy way",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "1.6",
+  "title": "Data Security",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Apps should implement appropriate security measures to ensure proper handling of user information collected pursuant to the Apple Developer Program License Agreement and these Guidelines",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "1.7",
+  "title": "Reporting Criminal Activity",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Apps for reporting alleged criminal activity must involve local law enforcement, and can only be offered in countries or regions where such involvement is active.",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "2.1",
+  "title": "App Completeness",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "2.1(a)",
+  "title": "Submissions to App Review, including apps you make available for pre-order…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Submissions to App Review, including apps you make available for pre-order, should be final versions with all necessary metadata and fully functional URLs included; placeholder",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "2.1(b)",
+  "title": "If you offer in-app purchases in your app, make sure they are complete…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "If you offer in-app purchases in your app, make sure they are complete, up-to-date, visible to the reviewer and functional. If any configured in-app purchase",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "2.2",
+  "title": "Beta Testing",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Demos, betas, and trial versions of your app don’t belong on the App Store – use TestFlight instead. Any app submitted for beta distribution via",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "2.3",
+  "title": "Accurate Metadata",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Customers should know what they’re getting when they download or buy your app, so make sure all your app metadata, including privacy information, your app",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "2.3.1",
+  "title": "Don’t include any hidden, dormant, or undocumented features in your app; your…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "2.3.1(a)",
+  "title": "Don’t include any hidden, dormant, or undocumented features in your app; your…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Don’t include any hidden, dormant, or undocumented features in your app; your app’s functionality should be clear to end users and App Review. All new",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "2.3.1(b)",
+  "title": "Egregious or repeated behavior is grounds for removal from the Apple Developer…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Egregious or repeated behavior is grounds for removal from the Apple Developer Program. We work hard to make the App Store a trustworthy ecosystem and",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "2.3.2",
+  "title": "If your app includes in-app purchases, make sure your app description…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "If your app includes in-app purchases, make sure your app description, screenshots, and previews clearly indicate whether any featured items, levels, subscriptions, etc. require additional",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "2.3.3",
+  "title": "Screenshots should show the app in use, and not merely the title art, login…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Screenshots should show the app in use, and not merely the title art, login page, or splash screen. They may also include text and image",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "2.3.4",
+  "title": "Previews are a great way for customers to see what your app looks like and…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Previews are a great way for customers to see what your app looks like and what it does. To ensure people understand what they’ll be",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "2.3.5",
+  "title": "Select the most appropriate category for your app, and check out the App Store…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Select the most appropriate category for your app, and check out the App Store Category Definitions if you need help. If you’re way off base,",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "2.3.6",
+  "title": "Answer the age rating questions in App Store Connect honestly so that your app…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Answer the age rating questions in App Store Connect honestly so that your app aligns properly with parental controls. If your app is mis-rated, customers",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "2.3.7",
+  "title": "Choose a unique app name, assign keywords that accurately describe your app…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Choose a unique app name, assign keywords that accurately describe your app, and don’t try to pack any of your metadata with trademarked terms, popular",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "2.3.8",
+  "title": "Metadata should be appropriate for all audiences, so make sure your app and…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Metadata should be appropriate for all audiences, so make sure your app and in-app purchase icons, screenshots, and previews adhere to a 4+ age rating",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "2.3.9",
+  "title": "You are responsible for securing the rights to use all materials in your app…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "You are responsible for securing the rights to use all materials in your app icons, screenshots, and previews, and you should display fictional account information",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "2.3.10",
+  "title": "Make sure your app is focused on the experience of the Apple platforms it…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Make sure your app is focused on the experience of the Apple platforms it supports, and don’t include names, icons, or imagery of other mobile",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "2.3.11",
+  "title": "Apps you submit for pre-order on the App Store must be complete and…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Apps you submit for pre-order on the App Store must be complete and deliverable as submitted. Ensure that the app you ultimately release is not",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "2.3.12",
+  "title": "Apps must clearly describe new features and product changes in their “What’s…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Apps must clearly describe new features and product changes in their “What’s New” text. Simple bug fixes, security updates, and performance improvements may rely on",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "2.3.13",
+  "title": "In-app events are timely events that happen within your app.",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "In-app events are timely events that happen within your app. To feature your event on the App Store, it must fall within an event type",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "2.4",
+  "title": "Hardware Compatibility",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "2.4.1",
+  "title": "To ensure people get the most out of your app, iPhone apps should run on iPad…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "To ensure people get the most out of your app, iPhone apps should run on iPad whenever possible. We encourage you to consider building apps",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "2.4.2",
+  "title": "Design your app to use power efficiently and be used in a way that does not…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Design your app to use power efficiently and be used in a way that does not risk damage to the device. Apps should not rapidly",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "2.4.3",
+  "title": "People should be able to use your Apple TV app without the need for hardware…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "People should be able to use your Apple TV app without the need for hardware inputs beyond the Siri remote or third-party game controllers, but",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "2.4.4",
+  "title": "Apps should never suggest or require a restart of the device or modifications…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Apps should never suggest or require a restart of the device or modifications to system settings unrelated to the core functionality of the app. For",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "2.4.5",
+  "title": "Apps distributed via the Mac App Store have some additional requirements to…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Apps distributed via the Mac App Store have some additional requirements to keep in mind:",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "2.4.5(i)",
+  "title": "They must be appropriately sandboxed, and follow macOS File System…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "They must be appropriately sandboxed, and follow macOS File System Documentation. They should also only use the appropriate macOS APIs for modifying user data stored",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "2.4.5(ii)",
+  "title": "They must be packaged and submitted using technologies provided in Xcode; no…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "They must be packaged and submitted using technologies provided in Xcode; no third-party installers allowed. They must also be self-contained, single app installation bundles and",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "2.4.5(iii)",
+  "title": "They may not auto-launch or have other code run automatically at startup or…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "They may not auto-launch or have other code run automatically at startup or login without consent nor spawn processes that continue to run without consent",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "2.4.5(iv)",
+  "title": "They may not download or install standalone apps, kexts, additional code, or…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "They may not download or install standalone apps, kexts, additional code, or resources to add functionality or significantly change the app from what we see",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "2.4.5(ix)",
+  "title": "Apps must contain all language and localization support in a single app bundle.",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Apps must contain all language and localization support in a single app bundle.",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "2.4.5(v)",
+  "title": "They may not request escalation to root privileges or use setuid attributes.",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "They may not request escalation to root privileges or use setuid attributes.",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "2.4.5(vi)",
+  "title": "They may not present a license screen at launch, require license keys, or…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "They may not present a license screen at launch, require license keys, or implement their own copy protection.",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "2.4.5(vii)",
+  "title": "They must use the Mac App Store to distribute updates; other update mechanisms…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "They must use the Mac App Store to distribute updates; other update mechanisms are not allowed.",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "2.4.5(viii)",
+  "title": "Apps should run on the currently shipping OS and may not use deprecated or…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Apps should run on the currently shipping OS and may not use deprecated or optionally installed technologies (e.g. Java)",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "2.5",
+  "title": "Software Requirements",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "2.5.1",
+  "title": "Apps may only use public APIs and must run on the currently shipping OS.",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Apps may only use public APIs and must run on the currently shipping OS. Learn more about public APIs. Keep your apps up-to-date and make",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "2.5.2",
+  "title": "Apps should be self-contained in their bundles, and may not read or write data…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Apps should be self-contained in their bundles, and may not read or write data outside the designated container area, nor may they download, install, or",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "2.5.3",
+  "title": "Apps that transmit viruses, files, computer code, or programs that may harm or…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Apps that transmit viruses, files, computer code, or programs that may harm or disrupt the normal operation of the operating system and/or hardware features, including",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "2.5.4",
+  "title": "Multitasking apps may only use background services for their intended…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Multitasking apps may only use background services for their intended purposes: VoIP, audio playback, location, task completion, local notifications, etc.",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "2.5.5",
+  "title": "Apps must be fully functional on IPv6-only networks.",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Apps must be fully functional on IPv6-only networks.",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "2.5.6",
+  "title": "Apps that browse the web must use the appropriate WebKit framework and WebKit…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Apps that browse the web must use the appropriate WebKit framework and WebKit JavaScript. You may apply for an entitlement to use an alternative web",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "2.5.7",
+  "title": "Intentionally omitted.",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "2.5.8",
+  "title": "Apps that create alternate desktop/home screen environments will be rejected.",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Apps that create alternate desktop/home screen environments will be rejected.",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "2.5.9",
+  "title": "Apps that alter or disable the functions of standard switches, such as the…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Apps that alter or disable the functions of standard switches, such as the Volume Up/Down and Ring/Silent switches, or other native user interface elements or",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "2.5.10",
+  "title": "Intentionally omitted.",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "2.5.11",
+  "title": "SiriKit and Shortcuts",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "2.5.11(i)",
+  "title": "Apps integrating SiriKit and Shortcuts should only sign up for intents they…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Apps integrating SiriKit and Shortcuts should only sign up for intents they can handle without the support of an additional app and that users would",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "2.5.11(ii)",
+  "title": "Ensure that the vocabulary and phrases in your plist pertains to your app and…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Ensure that the vocabulary and phrases in your plist pertains to your app and the Siri functionality of the intents the app has registered for.",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "2.5.11(iii)",
+  "title": "Resolve the Siri request or Shortcut in the most direct way possible and do…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Resolve the Siri request or Shortcut in the most direct way possible and do not insert ads or other marketing between the request and its",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "2.5.12",
+  "title": "Apps using CallKit or including an SMS Fraud Extension should only block phone…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Apps using CallKit or including an SMS Fraud Extension should only block phone numbers that are confirmed spam. Apps that include call-, SMS-, and MMS-",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "2.5.13",
+  "title": "Apps using facial recognition for account authentication must use…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Apps using facial recognition for account authentication must use LocalAuthentication (and not ARKit or other facial recognition technology) where possible, and must use an alternate",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "2.5.14",
+  "title": "Apps must request explicit user consent and provide a clear visual and/or…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Apps must request explicit user consent and provide a clear visual and/or audible indication when recording, logging, or otherwise making a record of user activity.",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "2.5.15",
+  "title": "Apps that enable users to view and select files should include items from the…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Apps that enable users to view and select files should include items from the Files app and the user’s iCloud documents.",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "2.5.16",
+  "title": "Widgets, extensions, and notifications should be related to the content and…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Widgets, extensions, and notifications should be related to the content and functionality of your app.",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "2.5.16(a)",
+  "title": "Additionally, all App Clip features and functionality must be included in the…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Additionally, all App Clip features and functionality must be included in the main app binary. App Clips cannot contain advertising.",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "2.5.17",
+  "title": "Apps that support Matter must use Apple’s support framework for Matter to…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Apps that support Matter must use Apple’s support framework for Matter to initiate pairing. In addition, if you choose to use any Matter software component",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "2.5.18",
+  "title": "Display advertising should be limited to your main app binary, and should not…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Display advertising should be limited to your main app binary, and should not be included in extensions, App Clips, widgets, notifications, keyboards, watchOS apps, etc.",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "3.1",
+  "title": "Payments",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "3.1.1",
+  "title": "In-App Purchase",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "In-App Purchase:",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "3.1.1(a)",
+  "title": "Link to Other Purchase Methods",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Developers may apply for entitlements to provide a link in their app to a website the developer owns or maintains responsibility for in order to",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "3.1.2",
+  "title": "Subscriptions",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Apps may offer auto-renewable in-app purchase subscriptions, regardless of category on the App Store. When incorporating auto-renewable subscriptions into your app, be sure to follow",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "3.1.2(a)",
+  "title": "Permissible uses",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "If you offer an auto-renewable subscription, you must provide ongoing value to the customer, and the subscription period must last at least seven days and",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "3.1.2(b)",
+  "title": "Upgrades and Downgrades",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Users should have a seamless upgrade/downgrade experience and should not be able to inadvertently subscribe to multiple variations of the same thing. Review best practices",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "3.1.2(c)",
+  "title": "Subscription Information",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Before asking a customer to subscribe, you should clearly describe what the user will get for the price. How many issues per month? How much",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "3.1.3",
+  "title": "Other Purchase Methods",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "The following apps may use purchase methods other than in-app purchase. Apps in this section cannot, within the app, encourage users to use a purchasing",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "3.1.3(a)",
+  "title": "“Reader” Apps",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Apps may allow a user to access previously purchased content or content subscriptions (specifically: magazines, newspapers, books, audio, music, and video). Reader apps may offer",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "3.1.3(b)",
+  "title": "Multiplatform Services",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Apps that operate across multiple platforms may allow users to access content, subscriptions, or features they have acquired in your app on other platforms or",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "3.1.3(c)",
+  "title": "Enterprise Services",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "If your app is only sold directly by you to organizations or groups for their employees or students (for example professional databases and classroom management",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "3.1.3(d)",
+  "title": "Person-to-Person Services",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "If your app enables the purchase of real-time person-to-person services between two individuals (for example tutoring students, medical consultations, real estate tours, or fitness training),",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "3.1.3(e)",
+  "title": "Goods and Services Outside of the App",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "If your app enables people to purchase physical goods or services that will be consumed outside of the app, you must use purchase methods other",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "3.1.3(f)",
+  "title": "Free Stand-alone Apps",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Free apps acting as a stand-alone companion to a paid web based tool (i.e. VoIP, Cloud Storage, Email Services, Web Hosting) do not need to",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "3.1.3(g)",
+  "title": "Advertising Management Apps",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Apps for the sole purpose of allowing advertisers (persons or companies that advertise a product, service, or event) to purchase and manage advertising campaigns across",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "3.1.4",
+  "title": "Hardware-Specific Content",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "In limited circumstances, such as when features are dependent upon specific hardware to function, the app may unlock that functionality without using in-app purchase (e.g.",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "3.1.5",
+  "title": "Cryptocurrencies",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Cryptocurrencies:",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "3.1.5(i)",
+  "title": "Wallets",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Apps may facilitate virtual currency storage, provided they are offered by developers enrolled as an organization.",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "3.1.5(ii)",
+  "title": "Mining",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Apps may not mine for cryptocurrencies unless the processing is performed off device (e.g. cloud-based mining).",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "3.1.5(iii)",
+  "title": "Exchanges",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Apps may facilitate transactions or transmissions of cryptocurrency on an approved exchange, provided they are offered only in countries or regions where the app has",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "3.1.5(iv)",
+  "title": "Initial Coin Offerings",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Apps facilitating Initial Coin Offerings (“ICOs”), cryptocurrency futures trading, and other crypto-securities or quasi-securities trading must come from established banks, securities firms, futures commission merchants",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "3.1.5(v)",
+  "title": "Cryptocurrency apps may not offer currency for completing tasks, such as…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Cryptocurrency apps may not offer currency for completing tasks, such as downloading other apps, encouraging other users to download, posting to social networks, etc.",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "3.2",
+  "title": "Other Business Model Issues",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "The lists below are not exhaustive, and your submission may trigger a change or update to our policies, but here are some additional dos and",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "3.2.1",
+  "title": "Acceptable",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "3.2.1(i)",
+  "title": "Displaying your own apps for purchase or promotion within your app, provided…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Displaying your own apps for purchase or promotion within your app, provided the app is not merely a catalog of your apps.",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "3.2.1(ii)",
+  "title": "Displaying or recommending a collection of third-party apps that are designed…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Displaying or recommending a collection of third-party apps that are designed for a specific approved need (e.g. health management, aviation, accessibility). Your app should provide",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "3.2.1(iii)",
+  "title": "Disabling access to specific approved rental content (e.g.",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Disabling access to specific approved rental content (e.g. films, television programs, music, books) after the rental period has expired; all other items and services may",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "3.2.1(iv)",
+  "title": "Wallet passes can be used to make or receive payments, transmit offers, or…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Wallet passes can be used to make or receive payments, transmit offers, or offer identification (such as movie tickets, coupons, and VIP credentials). Other uses",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "3.2.1(v)",
+  "title": "Insurance apps must be free, in legal compliance in the regions distributed…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Insurance apps must be free, in legal compliance in the regions distributed, and cannot use in-app purchase.",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "3.2.1(vi)",
+  "title": "Approved nonprofits may fundraise directly within their own apps or…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Approved nonprofits may fundraise directly within their own apps or third-party apps, provided those fundraising campaigns adhere to all App Review Guidelines and offer Apple",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "3.2.1(vii)",
+  "title": "Apps may enable individual users to give a monetary gift to another individual…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Apps may enable individual users to give a monetary gift to another individual without using in-app purchase, provided that (a) the gift is a completely",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "3.2.1(viii)",
+  "title": "Apps used for financial trading, investing, or money management should be…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Apps used for financial trading, investing, or money management should be submitted by the financial institution performing such services and must have necessary licensing and",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "3.2.2",
+  "title": "Unacceptable",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Apple customers place a high value on products that are simple, refined, innovative, and easy to use, and that’s what we want to see on",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "3.2.2(i)",
+  "title": "Creating an interface for displaying third-party apps, extensions, or plug-ins…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Creating an interface for displaying third-party apps, extensions, or plug-ins similar to the App Store or as a general-interest collection.",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "3.2.2(ii)",
+  "title": "Intentionally omitted.",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Intentionally omitted.",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "3.2.2(iii)",
+  "title": "Artificially increasing the number of impressions or click-throughs of ads, as…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Artificially increasing the number of impressions or click-throughs of ads, as well as apps that are designed predominantly for the display of ads.",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "3.2.2(iv)",
+  "title": "Unless you are an approved nonprofit or otherwise permitted under Section…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Unless you are an approved nonprofit or otherwise permitted under Section 3.2.1 (vi) above, collecting funds within the app for charities and fundraisers. Apps that",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "3.2.2(ix)",
+  "title": "Apps offering personal loans must clearly and conspicuously disclose all loan…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Apps offering personal loans must clearly and conspicuously disclose all loan terms, including but not limited to equivalent maximum Annual Percentage Rate (APR) and payment",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "3.2.2(v)",
+  "title": "Arbitrarily restricting who may use the app, such as by location or carrier.",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Arbitrarily restricting who may use the app, such as by location or carrier.",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "3.2.2(vi)",
+  "title": "Intentionally omitted.",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Intentionally omitted.",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "3.2.2(vii)",
+  "title": "Artificially manipulating a user’s visibility, status, or rank on other…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Artificially manipulating a user’s visibility, status, or rank on other services unless permitted by that service’s Terms and Conditions.",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "3.2.2(viii)",
+  "title": "Apps that facilitate binary options trading are not permitted on the App Store.",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Apps that facilitate binary options trading are not permitted on the App Store. Consider a web app instead. Apps that facilitate trading in contracts for",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "3.2.2(x)",
+  "title": "Apps must not force users to rate the app, review the app, download other…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Apps must not force users to rate the app, review the app, download other apps, or other store-related actions in order to access functionality, content,",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "4.1",
+  "title": "Copycats",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "4.1(a)",
+  "title": "Come up with your own ideas.",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Come up with your own ideas. We know you have them, so make yours come to life. Don’t simply copy the latest popular app on",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "4.1(b)",
+  "title": "Submitting apps which impersonate other apps or services is considered a…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Submitting apps which impersonate other apps or services is considered a violation of the Developer Code of Conduct and may result in removal from the",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "4.1(c)",
+  "title": "You cannot use another developer’s icon, brand, or product name in your app’s…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "You cannot use another developer’s icon, brand, or product name in your app’s icon or name, without approval from the developer.",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "4.2",
+  "title": "Minimum Functionality",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Your app should include features, content, and UI that elevate it beyond a repackaged website. If your app is not particularly useful, unique, or “app-like,”",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "4.2.1",
+  "title": "Apps using ARKit should provide rich and integrated augmented reality…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Apps using ARKit should provide rich and integrated augmented reality experiences; merely dropping a model into an AR view or replaying animation is not enough.",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "4.2.2",
+  "title": "Other than catalogs, apps shouldn’t primarily be marketing materials…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Other than catalogs, apps shouldn’t primarily be marketing materials, advertisements, web clippings, content aggregators, or a collection of links.",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "4.2.3",
+  "title": "Your app should work on its own without requiring installation of another app…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "4.2.3(i)",
+  "title": "Your app should work on its own without requiring installation of another app…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Your app should work on its own without requiring installation of another app to function.",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "4.2.3(ii)",
+  "title": "If your app needs to download additional resources in order to function on…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "If your app needs to download additional resources in order to function on initial launch, disclose the size of the download and prompt users before",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "4.2.4",
+  "title": "Intentionally omitted.",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "4.2.5",
+  "title": "Intentionally omitted.",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "4.2.6",
+  "title": "Apps created from a commercialized template or app generation service will be…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Apps created from a commercialized template or app generation service will be rejected unless they are submitted directly by the provider of the app’s content.",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "4.2.7",
+  "title": "Remote Desktop Clients",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "If your remote desktop app acts as a mirror of specific software or services rather than a generic mirror of the host device, it must",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "4.2.7(a)",
+  "title": "The app must only connect to a user-owned host device that is a personal…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "The app must only connect to a user-owned host device that is a personal computer or dedicated game console owned by the user, and both",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "4.2.7(b)",
+  "title": "Any software or services appearing in the client are fully executed on the…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Any software or services appearing in the client are fully executed on the host device, rendered on the screen of the host device, and may",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "4.2.7(c)",
+  "title": "All account creation and management must be initiated from the host device.",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "All account creation and management must be initiated from the host device.",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "4.2.7(d)",
+  "title": "The UI appearing on the client does not resemble an iOS or App Store view…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "The UI appearing on the client does not resemble an iOS or App Store view, does not provide a store-like interface, or include the ability",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "4.2.7(e)",
+  "title": "Thin clients for cloud-based apps are not appropriate for the App Store.",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Thin clients for cloud-based apps are not appropriate for the App Store.",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "4.3",
+  "title": "Spam",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "4.3(a)",
+  "title": "Don’t create multiple Bundle IDs of the same app (for example, submitting a…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Don’t create multiple Bundle IDs of the same app (for example, submitting a separate map app for every city in the world instead of a",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "4.3(b)",
+  "title": "Don’t submit apps that are indistinguishable from what's already widely…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Don’t submit apps that are indistinguishable from what's already widely available. Opportunistically creating variants of existing app categories or popular apps degrades App Store discovery,",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "4.4",
+  "title": "Extensions",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Apps hosting or containing extensions must comply with the App Extension Programming Guide, the Safari app extensions documentation, or the Safari web extensions documentation and",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "4.4.1",
+  "title": "Keyboard extensions have some additional rules.",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Keyboard extensions have some additional rules.",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "4.4.2",
+  "title": "Safari extensions must run on the current version of Safari on the relevant…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Safari extensions must run on the current version of Safari on the relevant Apple operating system. They may not interfere with System or Safari UI",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "4.4.3",
+  "title": "Intentionally omitted.",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "4.5",
+  "title": "Apple Sites and Services",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "4.5.1",
+  "title": "Apps may use approved Apple RSS feeds such as the iTunes Store RSS feed, but…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Apps may use approved Apple RSS feeds such as the iTunes Store RSS feed, but may not scrape any information from Apple sites (e.g. apple.com,",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "4.5.2",
+  "title": "Apple Music",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "4.5.2(i)",
+  "title": "MusicKit on iOS lets users play Apple Music and their local music library…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "MusicKit on iOS lets users play Apple Music and their local music library natively from your apps and games. When a user provides permission to",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "4.5.2(ii)",
+  "title": "Using the MusicKit APIs is not a replacement for securing the licenses you…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Using the MusicKit APIs is not a replacement for securing the licenses you might need for a deeper or more complex music integration. For example,",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "4.5.2(iii)",
+  "title": "Apps that access Apple Music user data, such as playlists and favorites, must…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Apps that access Apple Music user data, such as playlists and favorites, must clearly disclose this access in the purpose string. Any data collected may",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "4.5.3",
+  "title": "Do not use Apple Services to spam, phish, or send unsolicited messages to…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Do not use Apple Services to spam, phish, or send unsolicited messages to customers, including Game Center, Push Notifications, Live Activities, etc. Do not attempt",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "4.5.4",
+  "title": "Push Notifications must not be required for the app to function, and should…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Push Notifications must not be required for the app to function, and should not be used to send sensitive personal or confidential information. Push Notifications",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "4.5.5",
+  "title": "Only use Game Center Player IDs in a manner approved by the Game Center terms…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Only use Game Center Player IDs in a manner approved by the Game Center terms and do not display them in the app or to",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "4.5.6",
+  "title": "Apps may use Unicode characters that render as Apple emoji in their app and…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Apps may use Unicode characters that render as Apple emoji in their app and app metadata. Apple emoji may not be used on other platforms",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "4.6",
+  "title": "Intentionally omitted.",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "4.7",
+  "title": "Mini apps, mini games, streaming games, chatbots, plug-ins, and game emulators",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Apps may offer certain software that is not embedded in the binary, specifically HTML5 and JavaScript mini apps and mini games, streaming games, chatbots, and",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "4.7.1",
+  "title": "Software offered in apps under this rule must",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Software offered in apps under this rule must:",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "4.7.2",
+  "title": "Your app may not extend or expose native platform APIs or technologies to the…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Your app may not extend or expose native platform APIs or technologies to the software without prior permission from Apple.",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "4.7.3",
+  "title": "Your app may not share data or privacy permissions to any individual software…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Your app may not share data or privacy permissions to any individual software offered in your app without explicit user consent in each instance.",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "4.7.4",
+  "title": "You must provide an index of software and metadata available in your app.",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "You must provide an index of software and metadata available in your app. It must include universal links that lead to all of the software",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "4.7.5",
+  "title": "Your app must provide a way for users to identify software that exceeds the…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Your app must provide a way for users to identify software that exceeds the app’s age rating, and use an age restriction mechanism based on",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "4.8",
+  "title": "Login Services",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Apps that use a third-party or social login service (such as Facebook Login, Google Sign-In, Log in with X, Sign In with LinkedIn, Login with",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "4.9",
+  "title": "Apple Pay",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Apps using Apple Pay must provide all material purchase information to the user prior to sale of any good or service and must use Apple",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "4.10",
+  "title": "Monetizing Built-In Capabilities",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "You may not monetize built-in capabilities provided by the hardware or operating system, such as Push Notifications, the camera, or the gyroscope; or Apple services",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "5.1",
+  "title": "Privacy",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Protecting user privacy is paramount in the Apple ecosystem, and you should use care when handling personal data to ensure you’ve complied with privacy best",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "5.1.1",
+  "title": "Data Collection and Storage",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Identify what data, if any, the app/service collects, how it collects that data, and all uses of that data.",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "5.1.1(i)",
+  "title": "Privacy Policies",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "All apps must include a link to their privacy policy in the App Store Connect metadata field and within the app in an easily accessible",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "5.1.1(ii)",
+  "title": "Permission",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Apps that collect user or usage data must secure user consent for the collection, even if such data is considered to be anonymous at the",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "5.1.1(iii)",
+  "title": "Data Minimization",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Apps should only request access to data relevant to the core functionality of the app and should only collect and use data that is required",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "5.1.1(iv)",
+  "title": "Access",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Apps must respect the user’s permission settings and not attempt to manipulate, trick, or force people to consent to unnecessary data access. For example, apps",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "5.1.1(ix)",
+  "title": "Apps that provide services in highly regulated fields (such as banking and…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Apps that provide services in highly regulated fields (such as banking and financial services, healthcare, gambling, legal cannabis use, air travel and crypto exchanges) or",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "5.1.1(v)",
+  "title": "Account Sign-In",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "If your app doesn’t include significant account-based features, let people use it without a login. If your app supports account creation, you must also offer",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "5.1.1(vi)",
+  "title": "Developers that use their apps to surreptitiously discover passwords or other…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Developers that use their apps to surreptitiously discover passwords or other private data will be removed from the Apple Developer Program.",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "5.1.1(vii)",
+  "title": "SafariViewController must be used to visibly present information to users; the…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "SafariViewController must be used to visibly present information to users; the controller may not be hidden or obscured by other views or layers. Additionally, an",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "5.1.1(viii)",
+  "title": "Apps that compile personal information from any source that is not directly…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Apps that compile personal information from any source that is not directly from the user or without the user’s explicit consent, even public databases, are",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "5.1.1(x)",
+  "title": "Apps may request basic contact information (such as name and email address) so…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Apps may request basic contact information (such as name and email address) so long as the request is optional for the user, features and services",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "5.1.2",
+  "title": "Data Use and Sharing",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "5.1.2(i)",
+  "title": "Unless otherwise permitted by law, you may not use, transmit, or share…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Unless otherwise permitted by law, you may not use, transmit, or share someone’s personal data without first obtaining their permission. You must provide access to",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "5.1.2(ii)",
+  "title": "Data collected for one purpose may not be repurposed without further consent…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Data collected for one purpose may not be repurposed without further consent unless otherwise explicitly permitted by law.",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "5.1.2(iii)",
+  "title": "Apps should not attempt to surreptitiously build a user profile based on…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Apps should not attempt to surreptitiously build a user profile based on collected data and may not attempt, facilitate, or encourage others to identify anonymous",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "5.1.2(iv)",
+  "title": "Do not use information from Contacts, Photos, or other APIs that access user…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Do not use information from Contacts, Photos, or other APIs that access user data to build a contact database for your own use or for",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "5.1.2(v)",
+  "title": "Do not contact people using information collected via a user’s Contacts or…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Do not contact people using information collected via a user’s Contacts or Photos, except at the explicit initiative of that user on an individualized basis;",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "5.1.2(vi)",
+  "title": "Data gathered from the HomeKit API, HealthKit, Clinical Health Records API…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Data gathered from the HomeKit API, HealthKit, Clinical Health Records API, MovementDisorder APIs, ClassKit or from depth and/or facial mapping tools (e.g. ARKit, Camera APIs,",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "5.1.2(vii)",
+  "title": "Apps using Apple Pay may only share user data acquired via Apple Pay with…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Apps using Apple Pay may only share user data acquired via Apple Pay with third parties to facilitate or improve delivery of goods and services.",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "5.1.3",
+  "title": "Health and Health Research",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Health, fitness, and medical data are especially sensitive and apps in this space have some additional rules to make sure customer privacy is protected:",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "5.1.3(i)",
+  "title": "Apps may not use or disclose to third parties data gathered in the health…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Apps may not use or disclose to third parties data gathered in the health, fitness, and medical research context—including from the Clinical Health Records API,",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "5.1.3(ii)",
+  "title": "Apps must not write false or inaccurate data into HealthKit or any other…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Apps must not write false or inaccurate data into HealthKit or any other medical research or health management apps, and may not store personal health",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "5.1.3(iii)",
+  "title": "Apps conducting health-related human subject research must obtain consent from…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Apps conducting health-related human subject research must obtain consent from participants or, in the case of minors, their parent or guardian. Such consent must include",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "5.1.3(iv)",
+  "title": "Apps conducting health-related human subject research must secure approval…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Apps conducting health-related human subject research must secure approval from an independent ethics review board. Proof of such approval must be provided upon request.",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "5.1.4",
+  "title": "Kids",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "(a) For many reasons, it is critical to use care when dealing with personal data from kids, and we encourage you to carefully review all",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "5.1.5",
+  "title": "Location Services",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Use Location Services in your app only when it is directly relevant to the features and services provided by the app. Location-based APIs shouldn’t be",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "5.2",
+  "title": "Intellectual Property",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Make sure your app only includes content that you created or that you have a license to use. Your app may be removed if you’ve",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "5.2.1",
+  "title": "Generally",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Don’t use protected third-party material such as trademarks, copyrighted works, or patented ideas in your app without permission, and don’t include misleading, false, or copycat",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "5.2.2",
+  "title": "Third-Party Sites/Services",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "If your app uses, accesses, monetizes access to, or displays content from a third-party service, ensure that you are specifically permitted to do so under",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "5.2.3",
+  "title": "Audio/Video Downloading",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Apps should not facilitate illegal file sharing or include the ability to save, convert, or download media from third-party sources (e.g. Apple Music, YouTube, SoundCloud,",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "5.2.4",
+  "title": "Apple Endorsements",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "5.2.4(a)",
+  "title": "Don’t suggest or imply that Apple is a source or supplier of the App, or that…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Don’t suggest or imply that Apple is a source or supplier of the App, or that Apple endorses any particular representation regarding quality or functionality.",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "5.2.4(b)",
+  "title": "If your app is selected as an “Editor’s Choice,” Apple will apply the badge…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "If your app is selected as an “Editor’s Choice,” Apple will apply the badge automatically.",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "5.2.5",
+  "title": "Apple Products",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Don’t create an app that appears confusingly similar to an existing Apple product, interface (e.g. Finder), app (such as the App Store, iTunes Store, or",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "5.3",
+  "title": "Gaming, Gambling, and Lotteries",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Gaming, gambling, and lotteries can be tricky to manage and tend to be one of the most regulated offerings on the App Store. Only include",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "5.3.1",
+  "title": "Sweepstakes and contests must be sponsored by the developer of the app.",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Sweepstakes and contests must be sponsored by the developer of the app.",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "5.3.2",
+  "title": "Official rules for sweepstakes, contests, and raffles must be presented in the…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Official rules for sweepstakes, contests, and raffles must be presented in the app and make clear that Apple is not a sponsor or involved in",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "5.3.3",
+  "title": "Apps may not use in-app purchase to purchase credit or currency for use in…",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Apps may not use in-app purchase to purchase credit or currency for use in conjunction with real money gaming of any kind.",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "5.3.4",
+  "title": "Apps that offer real money gaming (e.g.",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Apps that offer real money gaming (e.g. sports betting, poker, casino games, horse racing) or lotteries must have necessary licensing and permissions in the locations",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "5.4",
+  "title": "VPN Apps",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Apps offering VPN services must utilize the NEVPNManager API and may only be offered by developers enrolled as an organization. You must make a clear",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "5.5",
+  "title": "Mobile Device Management",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Mobile Device Management Apps that offer Mobile Device Management (MDM) services must request this capability from Apple. Such apps may only be offered by commercial",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "5.6",
+  "title": "Developer Code of Conduct",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Please treat everyone with respect, whether in your responses to App Store reviews, customer support requests, or when communicating with Apple, including your responses in",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "5.6.1",
+  "title": "App Store Reviews",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "App Store customer reviews can be an integral part of the app experience, so you should treat customers with respect when responding to their comments.",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "5.6.2",
+  "title": "Developer Identity",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Providing verifiable information to Apple and customers is critical to customer trust. Your representation of yourself, your business, and your offerings on the App Store",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "5.6.3",
+  "title": "Discovery Fraud",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Participating in the App Store requires integrity and a commitment to building and maintaining customer trust. Manipulating any element of the App Store customer experience",
+  "reviewedOn": "2026-10-15"
+ },
+ {
+  "id": "5.6.4",
+  "title": "App Quality",
+  "url": "https://developer.apple.com/app-store/review/guidelines/",
+  "excerpt": "Customers expect the highest quality from the App Store, and maintaining high quality content, services, and experiences promotes customer trust. Indications that this expectation is",
+  "reviewedOn": "2026-10-15"
+ }
+]

@@ -1,0 +1,14 @@
+// !$*UTF8*$!
+{
+	objects = {
+		AAA /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_BUNDLE_IDENTIFIER = com.example.noplist;
+				GENERATE_INFOPLIST_FILE = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+	};
+}
