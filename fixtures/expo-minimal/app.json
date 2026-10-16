@@ -1,0 +1,1 @@
+{ "expo": { "name": "Expo Fixture", "slug": "expo-fixture", "version": "2.0.0", "ios": { "bundleIdentifier": "com.example.expofixture" } } }

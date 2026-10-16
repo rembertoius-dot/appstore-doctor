@@ -1,0 +1,8 @@
+PODS:
+  - React-Core (0.76.0)
+  - VisionCamera (4.5.0):
+    - React-Core
+  - RNScreens (3.34.0)
+
+DEPENDENCIES:
+  - VisionCamera (from `../node_modules/react-native-vision-camera`)

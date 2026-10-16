@@ -1,0 +1,32 @@
+// !$*UTF8*$!
+{
+	objects = {
+		AAA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_BUNDLE_IDENTIFIER = com.example.shop.tests;
+				TARGETED_DEVICE_FAMILY = 1;
+				INFOPLIST_FILE = ShopTests/Info.plist;
+			};
+			name = Debug;
+		};
+		BBB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_BUNDLE_IDENTIFIER = com.example.shop.share;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				INFOPLIST_FILE = ShareExtension/Info.plist;
+			};
+			name = Debug;
+		};
+		CCC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_BUNDLE_IDENTIFIER = com.example.shop;
+				TARGETED_DEVICE_FAMILY = "1,2,7";
+				INFOPLIST_FILE = ShopApp/Info.plist;
+			};
+			name = Debug;
+		};
+	};
+}
